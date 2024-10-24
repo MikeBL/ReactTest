@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/childcomponent.tsx","./src/myform.tsx","./src/tree.tsx","./src/userlist.tsx","./src/main.tsx","./src/treedata.tsx","./src/uselocalstorage.tsx","./src/useupdatelogger.tsx","./src/vite-env.d.ts"],"errors":true,"version":"5.6.3"}
