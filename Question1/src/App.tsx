@@ -8,6 +8,7 @@ function App() {
     <>
       <h1>Form</h1>
       <h1>New</h1>
+      <h1>New2</h1>
       <UserList></UserList>
     </>
   );
