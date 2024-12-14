@@ -1,19 +1,16 @@
+import "./App.css";
 
-
-import './App.css'
-
-import MyForm from './MyForm';
-import UserList from './UserList';
-
+import MyForm from "./MyForm";
+import UserList from "./UserList";
 
 function App() {
- 
   return (
     <>
       <h1>Form</h1>
-     <UserList></UserList>
+      <h1>New</h1>
+      <UserList></UserList>
     </>
-  )
+  );
 }
 
-export default App
+export default App;
